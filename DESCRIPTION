@@ -1,5 +1,5 @@
 Package: listenv
-Version: 0.7.0
+Version: 0.8.0
 Depends: R (>= 3.1.2)
 Suggests: R.utils, R.rsp, markdown
 VignetteBuilder: R.rsp
@@ -11,10 +11,10 @@ License: LGPL (>= 2.1)
 LazyLoad: TRUE
 URL: https://github.com/HenrikBengtsson/listenv
 BugReports: https://github.com/HenrikBengtsson/listenv/issues
-RoxygenNote: 6.0.1
+RoxygenNote: 7.0.2
 NeedsCompilation: no
-Packaged: 2018-01-21 20:32:47 UTC; hb
+Packaged: 2019-12-05 19:44:24 UTC; hb
 Author: Henrik Bengtsson [aut, cre, cph]
 Maintainer: Henrik Bengtsson <henrikb@braju.com>
 Repository: CRAN
-Date/Publication: 2018-01-21 21:55:48 UTC
+Date/Publication: 2019-12-05 21:40:02 UTC
